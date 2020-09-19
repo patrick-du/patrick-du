@@ -6,7 +6,7 @@
 [![Resume Badge](https://img.shields.io/badge/-Resume-B2BEC3?style=flat-rectangle&link=https://patrickdu.com/static/media/Resume.b1ae7d50.pdf)](https://patrickdu.com/static/media/Resume.b1ae7d50.pdf)
 <br/>
 <br/>
-I'm Patrick, a 3rd year student at the University of Waterloo. I enjoy creating delightful web experiences focused on functionality and minimalism. Currently, I'm interning as a Software Engineer at @ApplyBoard.
+I'm Patrick, a 3rd year student at the University of Waterloo. I enjoy creating delightful web experiences focused on functionality and minimalism. Most recently, I have interned as a Software Engineer at @ApplyBoard.
 <br/>
 
 ### Github Stats 💻
