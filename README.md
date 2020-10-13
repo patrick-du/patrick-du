@@ -8,6 +8,3 @@
 <br/>
 I'm Patrick, a 3rd year student at the University of Waterloo. I enjoy creating delightful web experiences focused on functionality and minimalism. Most recently, I have interned as a Software Engineer at @ApplyBoard.
 <br/>
-
-### Github Stats 💻
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=patrick-du&hide=["issues"]&show_icons=true)
