@@ -5,5 +5,5 @@
 [![Resume Badge](https://img.shields.io/badge/-Resume-B2BEC3?style=flat-rectangle&link=https://patrickdu.com/static/media/Resume.8bda50f2.pdf)](https://patrickdu.com/static/media/Resume.8bda50f2.pdf)
 <br/>
 <br/>
-I'm Patrick, a 4th year student at the University of Waterloo. I enjoy creating delightful web experiences focused on functionality and minimalism. Currently, I'm working part time as a Software Engineer at Carta.
+I'm Patrick, a 4th year student at the University of Waterloo. I enjoy creating delightful web experiences focused on functionality and minimalism.
 <br/>
